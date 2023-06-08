@@ -1,0 +1,3 @@
+export(bcTransform, bdTransform, dlTransform, glTransform, gpTransform, lgTransform, lsTransform, mdTransform, mnTransform, nlTransform, rpTransform, ssTransform, yjTransform, Transform)
+importFrom("graphics", hist, lines, par)
+importFrom("stats", density, qqline, qqnorm, shapiro.test)
